@@ -6,3 +6,4 @@
 et bien sur il y a pleins d'autres couleurs
 installation
 To install this tool, first extract the archive. Then you can either run setup.bat, or open a terminal inside the extracted folder, navigate to it using cd brix-tools-main, and install the dependencies with pip install -r requirements.txt
+I highly recommend using the main .exe file in the Releases section
